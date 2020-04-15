@@ -6,3 +6,5 @@ There are three Jypiter notebooks on this repository so far. These notebooks sho
 ## Requirements
 To execute these notebooks you required to have Python 3.X installed aswell as BeautifulSoup and Pandas. 
 
+## About Me
+I am a Education university student that is very interested in research. I code on my spare time for fun and to help me in my research projects. This is one of my first projects using Python. I will appreciate your feedback. 
